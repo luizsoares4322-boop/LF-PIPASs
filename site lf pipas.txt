@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>LF PIPAS | Loja Oficial</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="logo">🪁 LF PIPAS</div>
+  <nav>
+    <a href="#produtos">Produtos</a>
+    <a href="#sobre">Sobre</a>
+    <a href="#contato">Contato</a>
+  </nav>
+</header>
+
+<section class="banner">
+  <h1>Pipas de Alta Qualidade</h1>
+  <p>Tradição, resistência e estilo no céu</p>
+  <a href="#produtos" class="btn">Ver Produtos</a>
+</section>
+
+<section id="produtos" class="produtos">
+  <h2>Nossos Produtos</h2>
+
+  <div class="grid">
+    <div class="card">
+      <img src="https://via.placeholder.com/300" alt="Pipa Tradicional">
+      <h3>Pipa Tradicional</h3>
+      <p>Colorida e resistente</p>
+      <span>R$ 10,00</span>
+      <a href="https://wa.me/5521988168648" target="_blank">Comprar no WhatsApp</a>
+    </div>
+
+    <div class="card">
+      <img src="https://via.placeholder.com/300" alt="Pipa Grande">
+      <h3>Pipa Grande</h3>
+      <p>Voa alto e firme</p>
+      <span>R$ 20,00</span>
+      <a href="https://wa.me/5521988168648" target="_blank">Comprar no WhatsApp</a>
+    </div>
+
+    <div class="card">
+      <img src="https://via.placeholder.com/300" alt="Kit de Pipas">
+      <h3>Kit com 3 Pipas</h3>
+      <p>Mais economia</p>
+      <span>R$ 25,00</span>
+      <a href="https://wa.me/5521988168648" target="_blank">Comprar no WhatsApp</a>
+    </div>
+  </div>
+</section>
+
+<section id="sobre" class="sobre">
+  <h2>Sobre a LF PIPAS</h2>
+  <p>
+    A LF PIPAS trabalha com pipas de qualidade, feitas para quem gosta de voar alto.
+    Nosso compromisso é entregar produtos resistentes, bonitos e com ótimo preço.
+  </p>
+</section>
+
+<section id="contato" class="contato">
+  <h2>Contato</h2>
+  <p>📱 WhatsApp: (21) 98816-8648</p>
+  <p>📍 Atendimento rápido e direto pelo WhatsApp</p>
+</section>
+
+<footer>
+  <p>© 2026 LF PIPAS — Todos os direitos reservados</p>
+</footer>
+
+</body>
+</html>
+
